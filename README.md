@@ -33,4 +33,4 @@ If you find this work helpful for your research or project, please consider citi
 [Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024).](https://doi.org/10.1038/s41598-024-59626-y)
 ## Citation
 If you find this work helpful for your research or project, please consider citing the accompanying article:
-<a href="https://doi.org/10.1038/s41598-024-59626-y" target="_blank">Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024)</a>
+<a href="https://doi.org/10.1038/s41598-024-59626-y" {:target="_blank" rel="noopener"}>Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024)</a>
