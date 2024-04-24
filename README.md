@@ -1,7 +1,5 @@
 # A comparative analysis of pairwise image stitching techniques for microscopy images
 
-# Comparative Analysis of Pairwise Registration Techniques for Microscopic Image Stitching
-
 ## Introduction
 Stitching of microscopic images is a technique used to combine multiple overlapping images (tiles) from biological samples with a limited field of view and high resolution to create a whole slide image. Image stitching involves two main steps: pairwise registration and global alignment. Most of the computational load and the accuracy of the stitching algorithm depend on the pairwise registration method. Therefore, choosing an efficient, accurate, robust, and fast pairwise registration method is crucial in the whole slide imaging technique. This paper presents a detailed comparative analysis of different pairwise registration techniques in terms of execution time and quality.
 
